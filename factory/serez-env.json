@@ -1,0 +1,9 @@
+{
+	"name": "serez-env",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2477da09-8f25-4d59-80f5-1bbf1f7ccdf3",
+		"tenantId": "e07351a7-2637-4c62-9d27-135a85f1bdae"
+	}
+}
